@@ -5,7 +5,7 @@ A simple Hello World app for CodePath's Fall 22 Intro to Mobile App development 
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/xYP7dA7.gif" width=200><br>
+<img src="https://i.imgur.com/myALOKa.gif" width=200><br>
 
 
 ### Required User Stories
