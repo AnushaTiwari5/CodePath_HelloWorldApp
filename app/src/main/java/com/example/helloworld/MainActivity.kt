@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             findViewById<TextView>(R.id.textView).setTextColor(Color.parseColor("#024a28"))
         }
 
-        var newText = "Hello from Anusha"
+        var newText = "Android is Awesome!"
         val textEdit = findViewById<EditText>(R.id.textEditor) as EditText
 
         findViewById<Button>(R.id.button2).setOnClickListener {
@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
 
             newText = textEdit.text.toString()
             if(newText.trim() == "") {
-                newText = "Hello from Anusha"
+                newText = "Android is Awesome!"
             }
             Log.i("Anusha", newText)
             findViewById<TextView>(R.id.textView).setText(newText)
