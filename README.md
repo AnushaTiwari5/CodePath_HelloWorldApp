@@ -3,7 +3,7 @@
 ### App Description
 A simple Hello World app for CodePath's Fall 22 Intro to Mobile App development course prework. The app allows the user to change text string, text color and the background color.
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://i.imgur.com/myALOKa.gif" width=200><br>
 
