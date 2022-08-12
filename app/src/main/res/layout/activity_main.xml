@@ -12,7 +12,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello from Anusha"
+        android:text="Hello from Anusha!"
         android:textSize="32sp"
         android:textColor="#820E4D"
         app:layout_constraintBottom_toBottomOf="parent"
